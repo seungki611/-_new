@@ -1,0 +1,6 @@
+{
+  "name": "Spongebob Volleyball",
+  "description": "스폰지밥 배구게임: HTML5 Canvas 기반의 2D 아케이드 배구 게임. 1P vs AI 및 로컬 2P 대전 모드, 캐릭터별 능력 스킬, 그리고 Web Audio API 사운드를 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
